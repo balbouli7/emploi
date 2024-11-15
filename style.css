@@ -1,0 +1,16 @@
+
+#pause{
+    background-color: yellow;
+    text-align: center;
+}
+th{
+    background-color: green;
+    color: white;
+}
+body{
+    text-align: center;
+}
+.tab{
+    margin: 0 auto;
+    width: 80%;
+}
